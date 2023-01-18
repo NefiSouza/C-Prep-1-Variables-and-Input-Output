@@ -1,0 +1,15 @@
+C:\Users\Nefi_\Documents\GitHub\W01-Prove-Developer-C-\bin\Debug\net7.0\W01-Prove-Developer-C-.exe
+C:\Users\Nefi_\Documents\GitHub\W01-Prove-Developer-C-\bin\Debug\net7.0\W01-Prove-Developer-C-.deps.json
+C:\Users\Nefi_\Documents\GitHub\W01-Prove-Developer-C-\bin\Debug\net7.0\W01-Prove-Developer-C-.runtimeconfig.json
+C:\Users\Nefi_\Documents\GitHub\W01-Prove-Developer-C-\bin\Debug\net7.0\W01-Prove-Developer-C-.dll
+C:\Users\Nefi_\Documents\GitHub\W01-Prove-Developer-C-\bin\Debug\net7.0\W01-Prove-Developer-C-.pdb
+C:\Users\Nefi_\Documents\GitHub\W01-Prove-Developer-C-\obj\Debug\net7.0\W01-Prove-Developer-C-.csproj.AssemblyReference.cache
+C:\Users\Nefi_\Documents\GitHub\W01-Prove-Developer-C-\obj\Debug\net7.0\W01-Prove-Developer-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nefi_\Documents\GitHub\W01-Prove-Developer-C-\obj\Debug\net7.0\W01-Prove-Developer-C-.AssemblyInfoInputs.cache
+C:\Users\Nefi_\Documents\GitHub\W01-Prove-Developer-C-\obj\Debug\net7.0\W01-Prove-Developer-C-.AssemblyInfo.cs
+C:\Users\Nefi_\Documents\GitHub\W01-Prove-Developer-C-\obj\Debug\net7.0\W01-Prove-Developer-C-.csproj.CoreCompileInputs.cache
+C:\Users\Nefi_\Documents\GitHub\W01-Prove-Developer-C-\obj\Debug\net7.0\W01-Prove-Developer-C-.dll
+C:\Users\Nefi_\Documents\GitHub\W01-Prove-Developer-C-\obj\Debug\net7.0\refint\W01-Prove-Developer-C-.dll
+C:\Users\Nefi_\Documents\GitHub\W01-Prove-Developer-C-\obj\Debug\net7.0\W01-Prove-Developer-C-.pdb
+C:\Users\Nefi_\Documents\GitHub\W01-Prove-Developer-C-\obj\Debug\net7.0\W01-Prove-Developer-C-.genruntimeconfig.cache
+C:\Users\Nefi_\Documents\GitHub\W01-Prove-Developer-C-\obj\Debug\net7.0\ref\W01-Prove-Developer-C-.dll
